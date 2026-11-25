@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 and CSS3" />
+</p>
+
 # Kasper — HTML & CSS Second Project
 
 A responsive agency-style one-page template (**Kasper**) built with **pure HTML5 and CSS3** — no frameworks, no JavaScript. Second practice project in a series of three.
 
-## Sections
+## 🧩 Sections
 
 - Home / hero
 - Services
@@ -11,7 +15,7 @@ A responsive agency-style one-page template (**Kasper**) built with **pure HTML5
 - Pricing
 - Contact
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - HTML5 (semantic markup)
 - CSS3 (Flexbox / Grid, media queries)
@@ -19,7 +23,7 @@ A responsive agency-style one-page template (**Kasper**) built with **pure HTML5
 - Font Awesome icons
 - Google Fonts (Open Sans)
 
-## Run it
+## 🚀 Run it
 
 No build step needed:
 
